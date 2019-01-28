@@ -1,4 +1,4 @@
-"SFUI_MainMenu_News_Title"  "github.com/speedyplane2247/csgoenglish - report bugs"
+"SFUI_MainMenu_News_Title"  "github.com/speedyplane2247/csgoenglish - report bugs 0.7" // not complete
 "SFUI_MainMenu_Vac_Title" "VAC Ban"
 "SFUI_MainMenu_Vac_Info" "This account has been banned for cheating."
 "tooltip_navbar_home" "CS:GO"
