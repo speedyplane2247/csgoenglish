@@ -16,8 +16,8 @@ goto :exit
 :exit
 exit
 :help
-echo "help | loads this command"
-echo "customcsgopath | use a custom csgo path"
+echo "help  |  loads this command"
+echo "customcsgopath  |  use a custom csgo path"
 goto :exit
 :customcsgopath
 echo Path to File:
